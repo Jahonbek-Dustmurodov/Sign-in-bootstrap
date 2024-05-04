@@ -1,0 +1,21 @@
+.logo {
+  width: 72px;
+  height: 57px;
+}
+
+.form {
+  width: 300px;
+  height: 300px;
+  margin-top: 100px;
+  margin-left: 300px;
+}
+
+.input {
+  border-radius: 6px 6px 0 0 !important;
+}
+
+.form-input {
+  border-radius: 0 0 6px 6px !important;
+}
+
+@import "./bootstrap.scss"
